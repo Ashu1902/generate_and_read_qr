@@ -21,7 +21,7 @@ Make sure to install :-
 
 Clone the repository:
 
-- git clone https://github.com/amirsohail66/qrReadingGenerating.git
+- git clone https://github.com/Ashu1902/generate_and_read_qr
 - open the project directory
 - install the required packages by ->> npm install
 
